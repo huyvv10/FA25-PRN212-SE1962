@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
@@ -23,6 +24,12 @@ namespace ConsoleCarManagement
             int color = int.Parse(Console.ReadLine());
             Console.Write("Input car price: ");
             double price = double.Parse(Console.ReadLine());
+            Car x = new Car(id, name, color, price);
+            carList.Add(x);
+        }
+
+        public void AddNewCar2(string id, string name, int color, double price)
+        {
             Car x = new Car(id, name, color, price);
             carList.Add(x);
         }
@@ -50,6 +57,32 @@ namespace ConsoleCarManagement
                 }
             }
             if (!found) Console.WriteLine($"Find not found car with id as {_id}");
+        }
+
+        public void SearchCarByName()
+        {
+            Console.Write("Input car name to search: ");
+            string _name = Console.ReadLine();
+            bool found = false;
+            List<Car> searchCarList = new List<Car>();
+            foreach (Car car in carList)
+            {
+                if (car.GetName().ToLower().Contains(_name.Trim().ToLower()))
+                {
+                    searchCarList.Add(car);
+                    found = true;
+                }
+            }
+            if (!found) Console.WriteLine($"Find not found car with name as {_name}");
+            else
+            {
+                Console.WriteLine($"{"ID",-5} {"Name",-20} {"Color",-5} {"Price",10}");
+                Console.WriteLine($"{"--",-5} {"----",-20} {"-----",-5} {"-----",10}");
+                foreach (var car in searchCarList)
+                {
+                    Console.WriteLine(car.ToInfo());
+                }
+            }
         }
         public void DisplayCarList()
         {            

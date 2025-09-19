@@ -1,0 +1,15 @@
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\bin\Debug\net8.0\ConsoleCarManagement.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\bin\Debug\net8.0\ConsoleCarManagement.deps.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\bin\Debug\net8.0\ConsoleCarManagement.runtimeconfig.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\bin\Debug\net8.0\ConsoleCarManagement.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\bin\Debug\net8.0\ConsoleCarManagement.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.AssemblyInfoInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.AssemblyInfo.cs
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.sourcelink.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\refint\ConsoleCarManagement.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ConsoleCarManagement.genruntimeconfig.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleCarManagement\ConsoleCarManagement\obj\Debug\net8.0\ref\ConsoleCarManagement.dll
