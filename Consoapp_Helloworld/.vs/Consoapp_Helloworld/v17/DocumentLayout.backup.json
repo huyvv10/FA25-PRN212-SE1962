@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\Consoapp_Helloworld\\",
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\Consoapp_Helloworld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28994811-297F-4DBE-8ED6-3671A9AB0A7D}|Consoapp_Helloworld\\Consoapp_Helloworld.csproj|d:\\coding\\prn212\\fa25\\consoapp_helloworld\\consoapp_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28994811-297F-4DBE-8ED6-3671A9AB0A7D}|Consoapp_Helloworld\\Consoapp_Helloworld.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\consoapp_helloworld\\consoapp_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28994811-297F-4DBE-8ED6-3671A9AB0A7D}|Consoapp_Helloworld\\Consoapp_Helloworld.csproj|solutionrelative:consoapp_helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\Consoapp_Helloworld\\Consoapp_Helloworld\\Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\Consoapp_Helloworld\\Consoapp_Helloworld\\Program.cs",
               "RelativeDocumentMoniker": "Consoapp_Helloworld\\Program.cs",
-              "ToolTip": "D:\\Coding\\PRN212\\FA25\\Consoapp_Helloworld\\Consoapp_Helloworld\\Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\Consoapp_Helloworld\\Consoapp_Helloworld\\Program.cs",
               "RelativeToolTip": "Consoapp_Helloworld\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwB8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T03:16:19.516Z",
+              "WhenOpened": "2025-09-16T17:51:08.433Z",
               "EditorCaption": ""
             }
           ]

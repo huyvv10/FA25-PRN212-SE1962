@@ -1,0 +1,7 @@
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\bin\Debug\Consoapp_Helloworld.exe.config
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\bin\Debug\Consoapp_Helloworld.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\bin\Debug\Consoapp_Helloworld.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\obj\Debug\Consoapp_Helloworld.csproj.AssemblyReference.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\obj\Debug\Consoapp_Helloworld.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\obj\Debug\Consoapp_Helloworld.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\Consoapp_Helloworld\Consoapp_Helloworld\obj\Debug\Consoapp_Helloworld.pdb

@@ -23,12 +23,25 @@ namespace Consoapp_Helloworld
             Console.WriteLine($"The total value of {n} prime numbers: "+SumTheFirstNPrime(n));
             //CuuChuong(n);
             //CuuChuong();
-            int[] arr = new int[n];
-            InputArr(arr);
-            DisplayArr(arr);
-            SortArrAsc(arr);
-            SortArrDesc(arr);
+            //int[] arr = new int[n];
+            //InputArr(arr);
+            //DisplayArr(arr);
+            //SortArrAsc(arr);
+            //SortArrDesc(arr);
+            int[] arr = new int[] { 5,6,4,8,2,9,3};
+            FindMinMax(arr);
         }
+        public static (int min, int max) FindMinMax(int[] arr)
+        {
+            min = arr[0]; max = arr[0];
+            for (int i = 1; i<arr.Length; i++)
+            {
+                if (arr[i]>max) max = arr[i];
+                if (arr[i]>min) min = arr[i];
+            }
+            return (min, max);
+        }
+
         static void SortArrDesc(int[] arr)
         {
             Array.Sort(arr);
