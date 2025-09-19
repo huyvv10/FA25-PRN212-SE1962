@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\consolecarmanagement\\consolecarmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|solutionrelative:consolecarmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\consolecarmanagement\\consolecarmanagement\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|solutionrelative:consolecarmanagement\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\consolecarmanagement\\consolecarmanagement\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B61877-CB70-4025-BEFC-F4A13E1C7FB1}|ConsoleCarManagement\\ConsoleCarManagement.csproj|solutionrelative:consolecarmanagement\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\CarManagement.cs",
+              "RelativeDocumentMoniker": "ConsoleCarManagement\\CarManagement.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\CarManagement.cs",
+              "RelativeToolTip": "ConsoleCarManagement\\CarManagement.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:43:59.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleCarManagement\\Car.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\Car.cs",
+              "RelativeToolTip": "ConsoleCarManagement\\Car.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:30:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleCarManagement\\Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleCarManagement\\ConsoleCarManagement\\Program.cs",
+              "RelativeToolTip": "ConsoleCarManagement\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T03:28:59.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
