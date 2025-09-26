@@ -1,0 +1,15 @@
+A2; Toyota Camry; 2; 45000
+A3; Honda CR-V; 5; 60000
+A4; BMW X5; 1; 75000
+A5; Mercedes C300; 3; 68000
+A6; Audi A6; 4; 72000
+A7; Ford Ranger; 2; 35000
+A8; Chevrolet Spark; 5; 18000
+A9; Kia Seltos; 3; 25000
+A10; Hyundai Santa Fe; 4; 40000
+A11; Mazda CX-5; 1; 37000
+A12; Lexus RX350; 2; 80000
+A13; Nissan Altima; 5; 33000
+A14; Mitsubishi Outlander; 3; 36000
+A15; Volkswagen Passat; 4; 42000
+A16; Porsche Cayenne; 1; 95000

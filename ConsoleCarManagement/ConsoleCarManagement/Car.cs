@@ -13,6 +13,7 @@ namespace ConsoleCarManagement
         private int color;
         private double price;
 
+        public string Id { get { return id; } set { id = value; } }
         public Car() { }
 
         public Car(string id, string name, int color, double price)

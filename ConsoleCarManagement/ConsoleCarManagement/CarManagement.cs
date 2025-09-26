@@ -27,12 +27,36 @@ namespace ConsoleCarManagement
             Car x = new Car(id, name, color, price);
             carList.Add(x);
         }
-
         public void AddNewCar2(string id, string name, int color, double price)
         {
             Car x = new Car(id, name, color, price);
             carList.Add(x);
         }
+        public void ReadData(string fname)
+        {
+            if (File.Exists(fname))
+            {
+                //CarManagement defaultList = new CarManagement();
+                string[] lines = File.ReadAllLines(fname);
+                foreach (string line in lines)
+                {
+                    if (!string.IsNullOrEmpty(line))
+                    {
+                        string[] part = line.Trim().Split(';');
+                        if (part.Length == 4)
+                        {
+                            string _id = part[0].Trim();
+                            string _name = part[1].Trim();
+                            int _color = int.Parse(part[2].Trim());
+                            double _price = double.Parse(part[3].Trim());
+                            AddNewCar2(_id, _name, _color, _price);
+                        }
+                    }
+                }
+
+            }
+        }
+
 
         public void UpdateCarInfo()
         {
@@ -76,12 +100,14 @@ namespace ConsoleCarManagement
             if (!found) Console.WriteLine($"Find not found car with name as {_name}");
             else
             {
-                Console.WriteLine($"{"ID",-5} {"Name",-20} {"Color",-5} {"Price",10}");
-                Console.WriteLine($"{"--",-5} {"----",-20} {"-----",-5} {"-----",10}");
-                foreach (var car in searchCarList)
-                {
-                    Console.WriteLine(car.ToInfo());
-                }
+                DisplayCarList2(searchCarList);
+
+                //Console.WriteLine($"{"ID",-5} {"Name",-20} {"Color",-5} {"Price",10}");
+                //Console.WriteLine($"{"--",-5} {"----",-20} {"-----",-5} {"-----",10}");                
+                //foreach (var car in searchCarList)
+                //{
+                //    Console.WriteLine(car.ToInfo());
+                //}
             }
         }
         public void DisplayCarList()
@@ -89,6 +115,15 @@ namespace ConsoleCarManagement
             Console.WriteLine($"{"ID",-5} {"Name",-20} {"Color",-5} {"Price",10}");
             Console.WriteLine($"{"--",-5} {"----",-20} {"-----",-5} {"-----",10}");
             foreach (var car in carList)
+            {
+                Console.WriteLine(car.ToInfo());
+            }
+        }
+        public void DisplayCarList2(List<Car> listCar)
+        {
+            Console.WriteLine($"{"ID",-5} {"Name",-20} {"Color",-5} {"Price",10}");
+            Console.WriteLine($"{"--",-5} {"----",-20} {"-----",-5} {"-----",10}");
+            foreach (var car in listCar)
             {
                 Console.WriteLine(car.ToInfo());
             }

@@ -1,0 +1,15 @@
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\bin\Debug\net8.0\ConsoleAppFuncAction.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\bin\Debug\net8.0\ConsoleAppFuncAction.deps.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\bin\Debug\net8.0\ConsoleAppFuncAction.runtimeconfig.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\bin\Debug\net8.0\ConsoleAppFuncAction.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\bin\Debug\net8.0\ConsoleAppFuncAction.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.AssemblyInfoInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.AssemblyInfo.cs
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.sourcelink.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\refint\ConsoleAppFuncAction.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ConsoleAppFuncAction.genruntimeconfig.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppDeligate\ConsoleAppFuncAction\obj\Debug\net8.0\ref\ConsoleAppFuncAction.dll

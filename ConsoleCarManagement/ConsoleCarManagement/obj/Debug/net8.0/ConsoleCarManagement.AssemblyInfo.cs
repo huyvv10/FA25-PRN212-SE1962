@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleCarManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c9af218e27c713d6d34c4266a0bf1cd8818d79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd576044b5d3bf43418f18cb460f3b824604dc57")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleCarManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleCarManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
