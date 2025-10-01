@@ -1,0 +1,15 @@
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\bin\Debug\net8.0\ConsoleAppLINQ_Products.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\bin\Debug\net8.0\ConsoleAppLINQ_Products.deps.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\bin\Debug\net8.0\ConsoleAppLINQ_Products.runtimeconfig.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\bin\Debug\net8.0\ConsoleAppLINQ_Products.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\bin\Debug\net8.0\ConsoleAppLINQ_Products.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.AssemblyInfoInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.AssemblyInfo.cs
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.sourcelink.json
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\refint\ConsoleAppLINQ_Products.dll
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ConsoleAppLINQ_Products.genruntimeconfig.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\ConsoleAppLINQ_Products\ConsoleAppLINQ_Products\obj\Debug\net8.0\ref\ConsoleAppLINQ_Products.dll

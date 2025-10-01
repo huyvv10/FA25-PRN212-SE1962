@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleAppLINQ_Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF524A1-B752-4D12-8F29-510EFA0D485B}|ConsoleAppLINQ_Products\\ConsoleAppLINQ_Products.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\consoleapplinq_products\\consoleapplinq_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF524A1-B752-4D12-8F29-510EFA0D485B}|ConsoleAppLINQ_Products\\ConsoleAppLINQ_Products.csproj|solutionrelative:consoleapplinq_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleAppLINQ_Products\\ConsoleAppLINQ_Products\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLINQ_Products\\Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ConsoleAppLINQ_Products\\ConsoleAppLINQ_Products\\Program.cs*",
+              "RelativeToolTip": "ConsoleAppLINQ_Products\\Program.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:29:00.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

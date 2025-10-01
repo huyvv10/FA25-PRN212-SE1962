@@ -39,7 +39,7 @@ namespace LinqPractice
         public int DepartmentId { get; set; }
     }
 
-    public static class DataSourse
+    public static class DataSource
     {
         public static List<Student> Students = new List<Student>()
         {
@@ -100,34 +100,87 @@ namespace LinqPractice
             private static void Main(string[] args)
             {
                 //List all student with age >=22
-                var q1 = DataSourse.Students
+                var q1 = DataSource.Students
                         .Where(s => s.Age > 22);
 
-                foreach (var s in q1) Console.WriteLine(s.Name +" - "+ s.Age);
+                foreach (var s in q1) Console.WriteLine(s.Name + " - " + s.Age);
                 Console.WriteLine();
-                //var q2 = DataSourse.Students.Select(s => s.Name.StartsWith("H"));
-                var q2 = DataSourse.Students.Where(s => s.Name.StartsWith("H"));
+
+                //var q2 = DataSource.Students.Select(s => s.Name.StartsWith("H"));
+                var q2 = DataSource.Students.Where(s => s.Name.StartsWith("H"));
                 foreach (var s in q2) Console.WriteLine(s.Name);
 
                 //Get name age student with age >22
-                var q3 = DataSourse.Students
+                var q3 = DataSource.Students
                         .Where(s => s.Age > 22)
-                        .Select(s => s.Name.ToUpper() + " "+ s.Age);
+                        .Select(s => s.Name.ToUpper() + " " + s.Age);
                 foreach (var s in q3) Console.WriteLine(s);
 
                 //Sort by Age Asc
                 Console.WriteLine("Sort by Age asc");
-                var q4 = DataSourse.Students
+                var q4 = DataSource.Students
                         .OrderBy(s => s.Age);
 
-                foreach (var s in q4) Console.WriteLine(s.Id +" "+s.Name +" "+ s.Age);
+                foreach (var s in q4) Console.WriteLine(s.Id + " " + s.Name + " " + s.Age);
 
                 Console.WriteLine();
                 //Sort by Age Desc
                 Console.WriteLine("Sort by Age Desc");
-                var q5 = DataSourse.Students
+                var q5 = DataSource.Students
                         .OrderByDescending(s => s.Age);
                 foreach (var s in q5) Console.WriteLine(s.Id + " " + s.Name + " " + s.Age);
+
+                // 5. Sorting by multiple keys
+
+
+                // 6. Grouping - Students grouped by Department
+
+
+
+                // 7. Joining - Students with Department name
+
+
+                // 8. Multi-join - Student with Courses
+
+
+                // 9. Quantifier - Any student named "Hannah Wilson"?
+
+
+
+                // 10. Quantifier - All students older than 18?
+
+
+
+                // 11. Element - First student in CS
+
+
+
+                // 12. Element - FirstOrDefault (safe)
+
+
+
+                // 13. Aggregation - Average age of Business students
+
+
+                // 14. Aggregation - Count of CS students
+
+
+                // 15. Aggregation - Max age
+
+
+                // 16. Aggregation - Min credits
+
+
+                // 17. Set - Distinct Departments from students
+
+
+                // 18. Partitioning - First 3 students
+
+
+
+                // 19. Partitioning - Skip first 5 students
+
+
             }
         }
     }
