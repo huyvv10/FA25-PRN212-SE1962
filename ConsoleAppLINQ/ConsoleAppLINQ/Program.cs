@@ -130,43 +130,79 @@ namespace LinqPractice
                         .OrderByDescending(s => s.Age);
                 foreach (var s in q5) Console.WriteLine(s.Id + " " + s.Name + " " + s.Age);
 
-                // 5. Sorting by multiple keys
-
-
-                // 6. Grouping - Students grouped by Department
-
-
+                // 6. Grouping - Students grouped by Department CS
+                Console.WriteLine("Group by Dept");
+                var q6 = DataSource.Students.GroupBy(s => s.DepartmentId);
+                foreach (var s in q6)
+                {
+                    Console.WriteLine($"Dept : {s.Key}");
+                    foreach (var s2 in s) Console.WriteLine($"{s2.Id,5} - {s2.Name,10}");    
+                }
 
                 // 7. Joining - Students with Department name
+                Console.WriteLine("---Join ---");
+                var q7 = DataSource.Students
+                        .Join(DataSource.Departments, s => s.DepartmentId, d => d.Id,
+                        (s, d) => new { s.Id, s.Name, d.DeptName });
 
+                foreach (var s in q7) Console.WriteLine($"{s.Id,-5} {s.Name,-8} {s.DeptName,40}");
 
                 // 8. Multi-join - Student with Courses
+                var q8 = DataSource.Students
+                        .Join(DataSource.Enrollments,
+                        s => s.Id, e => e.StudentId, (s, e) => new { s.Id, s.Name, e.CourseId })
+                        .Join(DataSource.Courses,
+                        se => se.CourseId, c => c.Id, (se, c) => new { se.Id, se.Name, c.CourseName });
 
+                foreach (var s in q8) Console.WriteLine($"{s.Id,-5} {s.Name,-8} {s.CourseName,30}");
 
-                // 9. Quantifier - Any student named "Hannah Wilson"?
-
-
-
+                // 9. Quantifier - Any student named "Xa"?
+                bool q9 = DataSource.Students.Any(s => s.Name == "hoa");
+                if (q9) Console.WriteLine($"There is existing Xa in the list.");
+                else Console.WriteLine("No");
+                Console.WriteLine("-----Quantifier - All-----");
                 // 10. Quantifier - All students older than 18?
-
-
+                bool q10 = DataSource.Students.All(s => s.Age >= 18);
+                if (q10) Console.WriteLine($"Yes.");
+                else Console.WriteLine("No");
 
                 // 11. Element - First student in CS
+                //Select top (1) from tb
+                Console.WriteLine("--- First ---");
+                var q11 = DataSource.Students.First(s => s.DepartmentId == 1);
+                Console.WriteLine(q11.Id + " - " + q11.Name);
 
-
+                //Get the first oldest in CS
+                Console.WriteLine("Sort by Age desc");
+                var q11_1 = DataSource.Students
+                        .OrderByDescending(s => s.Age)
+                        .First(s2=>s2.DepartmentId==1);
+                Console.WriteLine(q11_1.Id + " - " + q11_1.Name);
 
                 // 12. Element - FirstOrDefault (safe)
-
-
+                Console.WriteLine("---FirstOrDefault---");
+                var q12 = DataSource.Students
+                    .FirstOrDefault(s=>s.Age >= 10);
+                Console.WriteLine($"{q12? .Name ?? "No student qualifier"}");
 
                 // 13. Aggregation - Average age of Business students
-
-
+                var q13 = DataSource.Students
+                            .Where(s => s.DepartmentId == 2)
+                            .Average(s => s.Age);
+                Console.WriteLine($"Average age of BE: {q13}");
                 // 14. Aggregation - Count of CS students
+                //14.1 Count number of student
+                int q14_1 = DataSource.Students.Count();
+                Console.WriteLine("--- Count ------");
+                Console.WriteLine($"Number of student: {q14_1}");
 
-
+                int q14_2 = DataSource.Students.Count(s=>s.DepartmentId==1);
+                Console.WriteLine($"Number of student in CS: {q14_2}");
                 // 15. Aggregation - Max age
-
+                var q15 = DataSource.Students
+                            .Where(s => s.DepartmentId == 2)
+                            .Max(s => s.Age);
+                Console.WriteLine($"Oldest age of BE: {q15}");
 
                 // 16. Aggregation - Min credits
 

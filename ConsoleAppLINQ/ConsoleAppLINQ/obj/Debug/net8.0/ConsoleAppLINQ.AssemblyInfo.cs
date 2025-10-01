@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+580b0030e2065ad583fe5a59c7b0da3dec49f843")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21b2bf3361713a58a4a64a2b3dc91b4c5ff6de8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
