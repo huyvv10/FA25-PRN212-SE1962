@@ -1,0 +1,12 @@
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.AssemblyReference.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.frmLogin.resources
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.frmTinhToan.resources
+D:\Coding\PRN212\FA25\FA25-PRN212-SE1962\WindowsFormsDemo\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.frmStudent.resources

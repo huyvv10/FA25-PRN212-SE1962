@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmtinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmtinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\windowsformsdemo\\windowsformsdemo\\frmtinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A53163D3-455A-426B-BF27-43E5DE342D94}|WindowsFormsDemo\\WindowsFormsDemo.csproj|solutionrelative:windowsformsdemo\\frmtinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\Program.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\Program.cs",
+              "RelativeToolTip": "WindowsFormsDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:11:19.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudent.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmStudent.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmStudent.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmStudent.cs",
+              "RelativeToolTip": "WindowsFormsDemo\\frmStudent.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:04:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\Student.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\Student.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\Student.cs",
+              "RelativeToolTip": "WindowsFormsDemo\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:53:24.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmStudent.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmStudent.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmStudent.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmStudent.cs [Design]",
+              "RelativeToolTip": "WindowsFormsDemo\\frmStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:52:58.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTinhToan.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmTinhToan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmTinhToan.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmTinhToan.cs [Design]",
+              "RelativeToolTip": "WindowsFormsDemo\\frmTinhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:04:08.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmLogin.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmLogin.cs",
+              "RelativeToolTip": "WindowsFormsDemo\\frmLogin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:36:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmLogin.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsDemo\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T03:21:55.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTinhToan.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmTinhToan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsDemo\\frmTinhToan.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\WindowsFormsDemo\\WindowsFormsDemo\\frmTinhToan.cs",
+              "RelativeToolTip": "WindowsFormsDemo\\frmTinhToan.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T04:25:48.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
