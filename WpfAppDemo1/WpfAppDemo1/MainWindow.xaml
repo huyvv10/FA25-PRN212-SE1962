@@ -22,9 +22,9 @@
         
         <!--Nội dung cho dòng 1 có Grid=1-->
         <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Right">
-            <Button Content="OK" x:Name="OK" Foreground="Blue" FontWeight="Bold" Margin="0,0,5,0" Background="Yellow"/>
-            <Button Content="Cancel" x:Name="Cancel" Foreground="Blue" FontWeight="Bold" Background="Yellow" Margin="0,0,5,0"/>
-            <Button Content="Apply" x:Name="Apply" Foreground="Blue" Background="Yellow" FontWeight="Bold"/>
+            <Button Content="OK" x:Name="btnOK" Foreground="Blue" FontWeight="Bold" Margin="0,0,5,0" Background="Yellow"/>
+            <Button Content="Cancel" x:Name="btnCancel" Foreground="Blue" FontWeight="Bold" Background="Yellow" Margin="0,0,5,0"/>
+            <Button Content="Apply" x:Name="btnApply" Foreground="Blue" Background="Yellow" FontWeight="Bold"/>
         </StackPanel>
 
         <!--Nội dung cho dòng 1 có Grid=2-->
@@ -42,40 +42,72 @@
         <!--Nội dung cho dòng 1 có Grid=3-->
 
         <Grid Grid.Row="3" Margin="0,10,0,0" >
+            
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
+            <GroupBox Header="Information">
+                <Grid Grid.Column="0" Margin="5" Background="#eee">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1.2*"/>
+                        <ColumnDefinition Width="1.8*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Id" Foreground="Blue" Grid.Row="0" Grid.Column="0" Margin="0,5"/>
+                    <TextBox Padding="5" Margin="5" Grid.Row="0" Grid.Column="1"/>
+                
+                    <Label Content="Name" Foreground="Blue" Grid.Row="1" Grid.Column="0" Margin="0,5"/>
+                    <TextBox Padding="5" Margin="5" Grid.Row="1" Grid.Column="1"/>
+                
+                    <Label Content="Gender" Foreground="Blue" Grid.Row="2" Grid.Column="0" Margin="0,5"/>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1">
+                        <RadioButton Content="Nam" GroupName="Gender" IsChecked="True"/>
+                        <RadioButton Content="Nữ" GroupName="Gender" />                    
+                    </StackPanel>
+                    <!--<RadioButton Grid.Column="1" Content="Nam" HorizontalAlignment="Left" Margin="178,22,0,0" Grid.Row="2" VerticalAlignment="Top"/>-->
+                
+                    <Label Content="DOB" Foreground="Blue" Grid.Row="3" Grid.Column="0" Margin="0,5"/>
+                    <DatePicker Margin="5" Grid.Row="3" Grid.Column="1" Padding="5"/>
 
-            <Grid Grid.Column="0" Margin="5" Background="#eee">
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="Auto"/>
-                    <RowDefinition Height="*"/>
-                </Grid.RowDefinitions>
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="1.2*"/>
-                    <ColumnDefinition Width="1.8*"/>
-                </Grid.ColumnDefinitions>
-                <Label Content="Id" Foreground="Blue" Grid.Row="0" Grid.Column="0" Margin="0,5"/>
-                <TextBox Padding="5" Margin="5" Grid.Row="0" Grid.Column="1"/>
-                
-                <Label Content="Name" Foreground="Blue" Grid.Row="1" Grid.Column="0" Margin="0,5"/>
-                <TextBox Padding="5" Margin="5" Grid.Row="1" Grid.Column="1"/>
-                
-                <Label Content="Gender" Foreground="Blue" Grid.Row="2" Grid.Column="0" Margin="0,5"/>
-                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1">
-                    <RadioButton Content="Nam" GroupName="Gender" />
-                    <RadioButton Content="Nữ" GroupName="Gender" />
+                    <Label Content="Skills" Foreground="Blue" Grid.Row="4" Grid.Column="0" Margin="0,5"/>                    
+                    <StackPanel Grid.Row="4" Grid.Column="1">
+                        <CheckBox Content="C#" IsChecked="True"/>
+                        <CheckBox Content="Java"/>
+                        <CheckBox Content="Python"/>
+                    </StackPanel>
                     
-                </StackPanel>
-                <!--<RadioButton Grid.Column="1" Content="Nam" HorizontalAlignment="Left" Margin="178,22,0,0" Grid.Row="2" VerticalAlignment="Top"/>-->
-                
-                <Label Content="DOB" Foreground="Blue" Grid.Row="3" Grid.Column="0" Margin="0,5"/>
-                <DatePicker Margin="5" Grid.Row="3" Grid.Column="1" Padding="5"/>
-                
+                    <Label Content="Major" Foreground="Blue" Grid.Row="5" Grid.Column="0" Margin="0,5"/>
+                    <ComboBox Grid.Row="5" Grid.Column="1" Margin="0,5" VerticalAlignment="Center">
+                        <ComboBoxItem Selector.IsSelected="True">Software engineering</ComboBoxItem>
+                        <ComboBoxItem>Artificial Intelligen</ComboBoxItem>
+                        <ComboBoxItem>Business Administrator</ComboBoxItem>
+                    </ComboBox>
+                    
+                    <Label Content="Notes" Foreground="Blue" Grid.Row="6" Grid.Column="0" Margin="0,5"/>
+                    <TextBox Grid.Row="6" Grid.Column="1" AcceptsReturn="True"/>
+                </Grid>
+            </GroupBox>
+            <Grid Grid.Column="1" Margin="5" Background="#b4f478 ">
+                <GroupBox Header="Detail">
+                    <DataGrid Margin="5">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Id" Width="*"/>
+                            <DataGridTextColumn Header="Name" Width="2*"/>
+                            <DataGridTextColumn Header="Gender" Width="*"/>
+                            <DataGridTextColumn Header="Date of birth" Width="*"/>
+                            <DataGridTextColumn Header="Address" Width="3*"/>                            
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </GroupBox>
             </Grid>
             
         </Grid>
