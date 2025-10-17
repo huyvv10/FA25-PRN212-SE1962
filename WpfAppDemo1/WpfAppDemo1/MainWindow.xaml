@@ -16,8 +16,8 @@
         </Grid.RowDefinitions>
         
         <!--Nội dung cho dòng 1 có Grid=0-->
-        <Border Background="Aqua" CornerRadius="6" Padding="5" Grid.Row="0" Margin="0,0,0,10">
-            <TextBlock Text="Something" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" />
+        <Border Background="Aqua" CornerRadius="6" Padding="5" Grid.Row="0" Margin="0,0,0,10" >
+            <TextBlock Text="Something" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" />
         </Border>
         
         <!--Nội dung cho dòng 1 có Grid=1-->
@@ -73,7 +73,6 @@
                         <RadioButton Content="Nam" GroupName="Gender" IsChecked="True"/>
                         <RadioButton Content="Nữ" GroupName="Gender" />                    
                     </StackPanel>
-                    <!--<RadioButton Grid.Column="1" Content="Nam" HorizontalAlignment="Left" Margin="178,22,0,0" Grid.Row="2" VerticalAlignment="Top"/>-->
                 
                     <Label Content="DOB" Foreground="Blue" Grid.Row="3" Grid.Column="0" Margin="0,5"/>
                     <DatePicker Margin="5" Grid.Row="3" Grid.Column="1" Padding="5"/>
@@ -96,6 +95,8 @@
                     <TextBox Grid.Row="6" Grid.Column="1" AcceptsReturn="True"/>
                 </Grid>
             </GroupBox>
+            
+            <!--Cột bên phải của dòng 3 chứa DataGrid-->
             <Grid Grid.Column="1" Margin="5" Background="#b4f478 ">
                 <GroupBox Header="Detail">
                     <DataGrid Margin="5">
