@@ -1,11 +1,11 @@
-﻿<Window x:Class="ProductManagement.MainWindow"
+﻿<Window x:Name="frmProduct" x:Class="ProductManagement.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProductManagement"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="800" WindowStartupLocation="CenterScreen" Background="#eee">
+        Title="MainWindow" Height="600" Width="800" WindowStartupLocation="CenterScreen" Background="#eee" Loaded="frmProduct_Loaded">
     <Grid Margin="5">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -16,24 +16,25 @@
         <Border Background="Aqua" Padding="10" >
             <TextBlock Text="PRODUCT MANAGEMENT" FontSize="26" FontWeight="Bold" HorizontalAlignment="Center"/>
         </Border>
-        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="10">
-            <TextBox Padding="5" Width="600" HorizontalAlignment="Center" Margin="0,0,5,0"/>
-            <Button Content="Search" Background="Yellow" Margin="15,0,0,0" Width="85"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,10">
+            <TextBox Padding="5" Width="600" HorizontalAlignment="Center" />
+            <Button Content="Search" Background="Yellow" Margin="5,0,0,0" Width="85"/>
         </StackPanel>
-        <StackPanel Grid.Row="2" Orientation="Horizontal">
-            <Button Content="Add" Background="Yellow" />
-            <Button Content="Update" Background="Yellow" />
-            <Button Content="Delete" Background="Yellow" />
-            <Button Content="Close" Background="Yellow" />            
+        
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="btnAdd" Content="Add" Background="Yellow" Width="85" Margin="0,0,5,0" Click="btnAdd_Click"/>
+            <Button x:Name="btnUpdate" Content="Update" Background="Yellow" Width="85" Margin="0,0,5,0"/>
+            <Button x:Name="btnDelete" Content="Delete" Background="Yellow" Width="85" Margin="0,0,5,0" Click="btnDelete_Click"/>
+            <Button x:Name="btnClose" Content="Close" Background="Yellow" Width="85" Margin="0,0,0,0" Click="btnClose_Click"/>            
         </StackPanel>
         <StackPanel Margin="0,10,0,0" Grid.Row="3">
-            <DataGrid AutoGenerateColumns="False">
+            <DataGrid x:Name="dgProduct" AutoGenerateColumns="False" IsReadOnly="True">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="ID" Width="*"/>
-                    <DataGridTextColumn Header="Product name" Width="3*"/>
-                    <DataGridTextColumn Header="Unit" Width="*"/>
-                    <DataGridTextColumn Header="Quantity" Width="*"/>
-                    <DataGridTextColumn Header="Category" Width="2*"/>
+                    <DataGridTextColumn Header="ID" Width="*" Binding="{Binding Id}"/>
+                    <DataGridTextColumn Header="Product name" Width="3*" Binding="{Binding Name}"/>
+                    <DataGridTextColumn Header="Unit" Width="*" Binding="{Binding Unit}"/>
+                    <DataGridTextColumn Header="Quantity" Width="*" Binding="{Binding Qty}"/>
+                    <DataGridTextColumn Header="Category" Width="2*" Binding="{Binding Cat.CatName}"/>
                 </DataGrid.Columns>                
                 
             </DataGrid>
