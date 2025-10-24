@@ -90,8 +90,7 @@
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\AddUpdateProduct.xaml",
               "RelativeToolTip": "ProductManagement\\AddUpdateProduct.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T01:53:14.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T01:53:14.523Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml",
               "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T00:49:05.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:49:05.178Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "ProductManagement\\DAL\\ProductDAL.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:51:35.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T04:51:35.417Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "ProductManagement\\ViewModel\\ProductBLL.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAA1wCkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:51:02.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T04:51:02.673Z"
             },
             {
               "$type": "Document",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowEQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:06:27.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T04:06:27.41Z"
             }
           ]
         }
