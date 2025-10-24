@@ -23,6 +23,7 @@ namespace ProductManagement
     {
         private CategoryBLL _catBLL=new();
         private ProductBLL _productBLL=new();
+        public Product prdFlag { get; set; } = null;
         public AddUpdateProduct()
         {
             InitializeComponent();
@@ -44,9 +45,24 @@ namespace ProductManagement
             cboCategory.SelectedValuePath = "CatId";
             cboCategory.SelectedIndex = 0;
         }
+
+        private void FillDataFormUpdate(Product x)
+        {
+            txtID.Text = x.Id;
+            txtName.Text = x.Name;
+            txtUnit.Text = x.Unit;
+            txtQty.Text=x.Qty.ToString();   //x.Qty+"";
+            cboCategory.Text=x.Cat.CatName.ToString();
+        }
         private void frmAddUpdate_Loaded(object sender, RoutedEventArgs e)
         {
             FillCboCategory();
+            if (prdFlag != null)
+            {
+                btnSave.Content = "Update";
+                txtID.IsReadOnly = true;
+                FillDataFormUpdate(prdFlag);
+            }
         }
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
@@ -64,7 +80,13 @@ namespace ProductManagement
                 x.Unit = unit;
                 x.Qty = qty;
                 x.CatId = catId;
-                _productBLL.AddNewProduct(x);
+
+                if (prdFlag != null)
+                {
+                    _productBLL.UpdateProduct(x);
+                }
+                else
+                    _productBLL.AddNewProduct(x);
                 MainWindow mainWindow = new MainWindow();
                 mainWindow.Show();
                 this.Hide();

@@ -40,7 +40,5 @@ namespace ProductManagement.DAL
             _dbContext.Products.Remove(x);
             _dbContext.SaveChanges();
         }
-
-
     }
 }

@@ -30,5 +30,13 @@ namespace ProductManagement.ViewModel
         {
             _prodDAL.DeleteProduct(x);
         }
+
+        public List<Product> SearchProduct(String kw) { 
+            if (kw == null) return _prodDAL.GetAllProducts().ToList();
+            var _allProduct = _prodDAL.GetAllProducts()
+                            .Where(s => s.Name.ToLower().Contains(kw.Trim().ToLower ())).ToList();
+            return _allProduct;                
+        }
+
     }
 }

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\addupdateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\addupdateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\addupdateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\addupdateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -23,16 +15,24 @@
       "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\viewmodel\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\addupdateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\addupdateproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\addupdateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\addupdateproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\viewmodel\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\viewmodel\\categorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\productmanagement\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A0E3B5-6F9C-46C1-AFAC-48F5A30F009A}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoryBLL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\ViewModel\\CategoryBLL.cs",
               "RelativeDocumentMoniker": "ProductManagement\\ViewModel\\CategoryBLL.cs",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoryDAL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\DAL\\CategoryDAL.cs",
               "RelativeDocumentMoniker": "ProductManagement\\DAL\\CategoryDAL.cs",
@@ -70,74 +70,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AddUpdateProduct.xaml.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\AddUpdateProduct.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagement\\AddUpdateProduct.xaml.cs",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\AddUpdateProduct.xaml.cs",
               "RelativeToolTip": "ProductManagement\\AddUpdateProduct.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAowCsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T02:17:28.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AddUpdateProduct.xaml",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\AddUpdateProduct.xaml",
               "RelativeDocumentMoniker": "ProductManagement\\AddUpdateProduct.xaml",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\AddUpdateProduct.xaml",
               "RelativeToolTip": "ProductManagement\\AddUpdateProduct.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T01:53:14.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
-              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml",
-              "RelativeToolTip": "ProductManagement\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-22T00:49:05.178Z"
+              "WhenOpened": "2025-10-22T01:53:14.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml*",
+              "RelativeToolTip": "ProductManagement\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T00:49:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\DAL\\ProductDAL.cs",
               "RelativeDocumentMoniker": "ProductManagement\\DAL\\ProductDAL.cs",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\DAL\\ProductDAL.cs",
               "RelativeToolTip": "ProductManagement\\DAL\\ProductDAL.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:51:35.417Z"
+              "WhenOpened": "2025-10-17T04:51:35.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProductBLL.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\ViewModel\\ProductBLL.cs",
               "RelativeDocumentMoniker": "ProductManagement\\ViewModel\\ProductBLL.cs",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\ViewModel\\ProductBLL.cs",
               "RelativeToolTip": "ProductManagement\\ViewModel\\ProductBLL.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:51:02.673Z"
+              "WhenOpened": "2025-10-17T04:51:02.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\ProductManagement\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAlwD8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T04:06:27.41Z"
+              "WhenOpened": "2025-10-17T04:06:27.41Z",
+              "EditorCaption": ""
             }
           ]
         }

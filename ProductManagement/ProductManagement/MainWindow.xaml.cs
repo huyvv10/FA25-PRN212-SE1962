@@ -63,5 +63,36 @@ namespace ProductManagement
             this.Hide();
             this.Close();
         }
+
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            Product? product = dgProduct.SelectedItem as Product;
+            if (product == null)
+            {
+                MessageBox.Show("Please select a product to update info", "Select a product", MessageBoxButton.OK, MessageBoxImage.Exclamation);
+                return;
+            }
+            else
+            {        
+                AddUpdateProduct _addUpdateProduct = new AddUpdateProduct();
+                _addUpdateProduct.prdFlag = product;
+                _addUpdateProduct.Show();
+                this.Hide();
+                this.Close();
+            }
+        }
+
+        private void btnSearch_Click(object sender, RoutedEventArgs e)
+        {
+            string? kw = txtSeach.Text.Trim();
+            var _prdSource = _prdBLL.SearchProduct(kw);
+            dgProduct.ItemsSource = null;
+            dgProduct.ItemsSource = _prdSource;
+        }
+
+        private void txtSeach_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            btnSearch_Click(sender,e);
+        }
     }
 }
