@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\dal\\majordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dal\\majordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\bll\\majorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bll\\majorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bll\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|d:\\coding\\prn212\\fa25\\fa25-prn212-se1962\\studentmanagement\\studentmanagement\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FCC751-B662-47C8-8D24-460FD19DE2C6}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "StudentBLL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\StudentBLL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BLL\\StudentBLL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\StudentBLL.cs",
+              "RelativeToolTip": "StudentManagement\\BLL\\StudentBLL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:31:44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DAL\\StudentDAL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\StudentDAL.cs",
+              "RelativeToolTip": "StudentManagement\\DAL\\StudentDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:35:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MajorBLL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\MajorBLL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BLL\\MajorBLL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\MajorBLL.cs",
+              "RelativeToolTip": "StudentManagement\\BLL\\MajorBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:27:28.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\BLL\\DepartmentBLL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "StudentManagement\\BLL\\DepartmentBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:27:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MajorDAL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\MajorDAL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DAL\\MajorDAL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\MajorDAL.cs",
+              "RelativeToolTip": "StudentManagement\\DAL\\MajorDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:26:51.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDAL.cs",
+              "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\DepartmentDAL.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\DAL\\DepartmentDAL.cs",
+              "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\DAL\\DepartmentDAL.cs",
+              "RelativeToolTip": "StudentManagement\\DAL\\DepartmentDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T02:26:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "StudentManagement\\MainWindow.xaml",
@@ -34,15 +136,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "StudentManagement\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Coding\\PRN212\\FA25\\FA25-PRN212-SE1962\\StudentManagement\\StudentManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "StudentManagement\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T18:49:15.249Z"
+              "WhenOpened": "2025-10-28T18:49:15.249Z",
+              "EditorCaption": ""
             }
           ]
         }
